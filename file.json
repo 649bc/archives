@@ -1,0 +1,15 @@
+{
+  "name": "Mangificent Blue",
+  "symbol": "MBlue",
+  "description": "Nothing out of the extraordinary",
+  "image": "https://wonderfulengineering.com/wp-content/uploads/2014/10/image-wallpaper-15.jpg",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://wonderfulengineering.com/wp-content/uploads/2014/10/image-wallpaper-15.jpg",
+        "type": "image/jpg"
+      }
+    ]
+  }
+}
