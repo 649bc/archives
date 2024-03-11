@@ -1,13 +1,13 @@
 {
   "name": "Wakanda Inu",
   "symbol": "WKD",
-  "description": "A decentralized charity-oriented meme token with the single purpose of revealing the best part of being human.",
-  "image": "",
+  "description": "A decentralized charity-oriented meme token with the single purpose of revealing the best part of being human",
+  "image": "https://raw.githubusercontent.com/649bc/archives/main/WKD.jpeg",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "",
+        "uri": "https://raw.githubusercontent.com/649bc/archives/main/WKD.jpeg",
         "type": "image/jpg"
       }
     ]
